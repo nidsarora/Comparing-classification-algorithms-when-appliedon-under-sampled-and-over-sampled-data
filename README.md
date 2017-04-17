@@ -1,1 +1,1 @@
-# Comparing-classification-algorithms-when-appliedon-under-sampled-and-over-sampled-data
+# Comparing classification algorithms when applied on under sampled and over sampled data
